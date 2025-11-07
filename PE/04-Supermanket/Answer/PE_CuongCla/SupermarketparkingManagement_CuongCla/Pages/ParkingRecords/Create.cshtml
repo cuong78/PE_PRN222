@@ -1,0 +1,63 @@
+﻿@page
+@model SupermarketparkingManagement_CuongCla.Pages.ParkingRecords.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>ParkingRecord</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.RecordId" class="control-label"></label>
+                <input asp-for="ParkingRecord.RecordId" class="form-control" />
+                <span asp-validation-for="ParkingRecord.RecordId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.VehiclePlate" class="control-label"></label>
+                <input asp-for="ParkingRecord.VehiclePlate" class="form-control" />
+                <span asp-validation-for="ParkingRecord.VehiclePlate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.VehicleTypeId" class="control-label"></label>
+                <select asp-for="ParkingRecord.VehicleTypeId" class ="form-control" asp-items="ViewBag.VehicleTypeId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.CheckInTime" class="control-label"></label>
+                <input asp-for="ParkingRecord.CheckInTime" class="form-control" />
+                <span asp-validation-for="ParkingRecord.CheckInTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.CheckOutTime" class="control-label"></label>
+                <input asp-for="ParkingRecord.CheckOutTime" class="form-control" />
+                <span asp-validation-for="ParkingRecord.CheckOutTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.ParkingSlot" class="control-label"></label>
+                <input asp-for="ParkingRecord.ParkingSlot" class="form-control" />
+                <span asp-validation-for="ParkingRecord.ParkingSlot" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkingRecord.FeePaid" class="control-label"></label>
+                <input asp-for="ParkingRecord.FeePaid" class="form-control" />
+                <span asp-validation-for="ParkingRecord.FeePaid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

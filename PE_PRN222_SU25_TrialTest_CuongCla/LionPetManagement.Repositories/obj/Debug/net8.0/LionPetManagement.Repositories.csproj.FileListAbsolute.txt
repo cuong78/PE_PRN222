@@ -1,0 +1,28 @@
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.deps.json
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.runtimeconfig.json
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.dll
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.pdb
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.csproj.AssemblyReference.cache
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.AssemblyInfoInputs.cache
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.AssemblyInfo.cs
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.csproj.CoreCompileInputs.cache
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.dll
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\refint\LionPetManagement.Repositories.dll
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.pdb
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.genruntimeconfig.cache
+D:\PRN222\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\ref\LionPetManagement.Repositories.dll
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.deps.json
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.runtimeconfig.json
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.dll
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\bin\Debug\net8.0\LionPetManagement.Repositories.pdb
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.csproj.AssemblyReference.cache
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.AssemblyInfoInputs.cache
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.AssemblyInfo.cs
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.csproj.CoreCompileInputs.cache
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.dll
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\refint\LionPetManagement.Repositories.dll
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.pdb
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\LionPetManagement.Repositories.genruntimeconfig.cache
+D:\PRN222\Đề Thi PE\PE_PRN222_SU25_TrialTest_CuongCla\LionPetManagement.Repositories\obj\Debug\net8.0\ref\LionPetManagement.Repositories.dll

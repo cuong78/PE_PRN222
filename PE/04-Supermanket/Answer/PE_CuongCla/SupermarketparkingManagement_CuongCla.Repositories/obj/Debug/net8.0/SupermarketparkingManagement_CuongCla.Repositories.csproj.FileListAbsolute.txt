@@ -1,0 +1,14 @@
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\bin\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.deps.json
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\bin\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.runtimeconfig.json
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\bin\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.dll
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\bin\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.pdb
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.csproj.AssemblyReference.cache
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.AssemblyInfoInputs.cache
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.AssemblyInfo.cs
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.csproj.CoreCompileInputs.cache
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.dll
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\refint\SupermarketparkingManagement_CuongCla.Repositories.dll
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.pdb
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Repositories.genruntimeconfig.cache
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Repositories\obj\Debug\net8.0\ref\SupermarketparkingManagement_CuongCla.Repositories.dll

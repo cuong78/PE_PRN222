@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketparkingManagement_CuongCla", "SupermarketparkingManagement_CuongCla\SupermarketparkingManagement_CuongCla.csproj", "{E855EF17-EDD9-49EA-908E-9F055A0A4741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketparkingManagement_CuongCla.Service", "SupermarketparkingManagement_CuongCla.Service\SupermarketparkingManagement_CuongCla.Service.csproj", "{134F6566-2DB8-4BBE-AFA4-CF02C1003A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketparkingManagement_CuongCla.Repositories", "SupermarketparkingManagement_CuongCla.Repositories\SupermarketparkingManagement_CuongCla.Repositories.csproj", "{52A7166A-DFD9-4743-A5A4-D83370A29591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E855EF17-EDD9-49EA-908E-9F055A0A4741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E855EF17-EDD9-49EA-908E-9F055A0A4741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E855EF17-EDD9-49EA-908E-9F055A0A4741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E855EF17-EDD9-49EA-908E-9F055A0A4741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134F6566-2DB8-4BBE-AFA4-CF02C1003A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134F6566-2DB8-4BBE-AFA4-CF02C1003A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134F6566-2DB8-4BBE-AFA4-CF02C1003A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134F6566-2DB8-4BBE-AFA4-CF02C1003A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A7166A-DFD9-4743-A5A4-D83370A29591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A7166A-DFD9-4743-A5A4-D83370A29591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A7166A-DFD9-4743-A5A4-D83370A29591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A7166A-DFD9-4743-A5A4-D83370A29591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF1D81A-7290-43B7-9BDF-073EE8A7617F}
+	EndGlobalSection
+EndGlobal
