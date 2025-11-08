@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement_cuongcla\\pages\\lionprofiles\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\lionprofiles\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement_cuongcla\\pages\\lionprofiles\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\lionprofiles\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement_cuongcla\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement_cuongcla\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement_cuongcla\\pages\\lionprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\lionprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -51,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\lionprofiles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement_cuongcla\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE45AAA8-7526-46DA-A75F-F6F8EBB55AF7}|LionPetManagement_CuongCla\\LionPetManagement_CuongCla.csproj|solutionrelative:lionpetmanagement_cuongcla\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4D6B122-9376-4D4B-8B37-051A11EED45A}|LionPetManagement.Repositories\\LionPetManagement.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe_prn222_su25_trialtest_cuongcla\\lionpetmanagement.repositories\\models\\lionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4D6B122-9376-4D4B-8B37-051A11EED45A}|LionPetManagement.Repositories\\LionPetManagement.Repositories.csproj|solutionrelative:lionpetmanagement.repositories\\models\\lionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +86,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
-              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
-              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Delete.cshtml.cs",
+              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T10:42:12.045Z",
+              "WhenOpened": "2025-11-07T16:27:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Create.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Create.cshtml.cs",
+              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Create.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:27:38.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:27:26.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Search.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Search.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Search.cshtml",
@@ -95,12 +133,11 @@
               "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Search.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-05T16:22:48.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T16:22:48.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml",
@@ -113,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Edit.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Edit.cshtml",
@@ -125,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Details.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Details.cshtml",
@@ -133,12 +170,11 @@
               "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Details.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-05T16:13:36.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T16:13:36.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Delete.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Delete.cshtml",
@@ -150,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\Shared\\_Layout.cshtml",
@@ -158,12 +194,36 @@
               "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T00:39:38.486Z",
+              "WhenOpened": "2025-11-06T00:39:38.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T00:31:35.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
+              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:42:12.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Edit.cshtml.cs",
@@ -175,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Details.cshtml.cs",
@@ -187,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\LionProfiles\\Create.cshtml",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\LionProfiles\\Create.cshtml",
@@ -199,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Program.cs",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Program.cs",
@@ -211,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "LionHub.cs",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Hubs\\LionHub.cs",
               "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Hubs\\LionHub.cs",
@@ -223,19 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "LionPetManagement_CuongCla\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-06T00:31:35.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "LionProfile.cs",
               "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE_PRN222_SU25_TrialTest_CuongCla\\LionPetManagement.Repositories\\Models\\LionProfile.cs",
               "RelativeDocumentMoniker": "LionPetManagement.Repositories\\Models\\LionProfile.cs",
