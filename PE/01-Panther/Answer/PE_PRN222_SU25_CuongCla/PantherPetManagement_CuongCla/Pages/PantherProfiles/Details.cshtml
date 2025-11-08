@@ -1,0 +1,76 @@
+﻿@page
+@model PantherPetManagement_CuongCla.Pages.PantherProfiles.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>PantherProfile</h4>
+    <hr />
+    <dl class="row" id="pantherTypeId">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PantherProfile.PantherName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PantherProfile.PantherName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PantherProfile.Weight)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PantherProfile.Weight)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PantherProfile.Characteristics)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PantherProfile.Characteristics)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PantherProfile.Warning)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PantherProfile.Warning)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PantherProfile.ModifiedDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PantherProfile.ModifiedDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PantherProfile.PantherType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PantherProfile.PantherType.PantherTypeName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.PantherProfile.PantherProfileId">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script>
+    "use strict";
+
+    var connection = new signalR.HubConnectionBuilder().withUrl("/PantherHub").build();
+
+    connection.start().then(function () {
+        console.log("CuongCLA: Connected to the SignalR Hub");
+    }).catch(function (err) {
+        return console.error(err.toString());
+    });
+
+    //Delete
+    connection.on("ReceiveDelete_PantherProfile", function (PantherTypeId) {
+        document.getElementById("pantherTypeId").innerHTML = "<div class='alert alert-warning text-center' role='alert'><i class='fas fa-exclamation-triangle me-2'></i>This payment record (ID: " + PantherTypeId + ") has been deleted.</div>";
+    });
+
+
+</script>

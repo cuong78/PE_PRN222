@@ -1,0 +1,120 @@
+﻿@page
+@model PantherPetManagement_CuongCla.Pages.PantherProfiles.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <h5 class="card-title text-primary mb-3"><i class="bi bi-search me-2"></i> Search Records</h5>
+        <form asp-page="./Index" method="get">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="pantherTypeName" class="form-label">Lion Type Name</label>
+                    <input type="text" class="form-control" id="pantherTypeName" name="PantherTypeName" value="@Model.PantherTypeName" />
+                </div>
+                <div class="col-md-4">
+                    <label for="weight" class="form-label">Weight</label>
+                    <input type="number" class="form-control" id="weight" name="Weight" value="@Model.Weight" />
+                </div>
+            </div>
+            <div class="d-flex justify-content-end mt-3">
+                <button class="btn btn-primary me-2" type="submit">
+                    <i class="bi bi-search me-1"></i> Search
+                </button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">
+                    Clear
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PantherProfile[0].PantherName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PantherProfile[0].Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PantherProfile[0].Characteristics)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PantherProfile[0].Warning)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PantherProfile[0].ModifiedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PantherProfile[0].PantherType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="PantherProfileTBodyId">
+@foreach (var item in Model.PantherProfile) {
+        <tr class="js-pagination-item" id="@item.PantherProfileId">
+            <td>
+                @Html.DisplayFor(modelItem => item.PantherName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Characteristics)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Warning)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModifiedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PantherType.PantherTypeName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.PantherProfileId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.PantherProfileId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.PantherProfileId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="js-pagination" style="display: none; margin-top: 20px;"></div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/pagination.js"></script>
+
+<script>
+    generatePagination('.js-pagination', '.js-pagination-item', 3, 'Prev', 'Next');
+</script>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script>
+    "use strict";
+
+    var connection = new signalR.HubConnectionBuilder().withUrl("/PantherHub").build();
+
+    connection.start().then(function () {
+        console.log(" Connected to the SignalR Hub");
+    }).catch(function (err) {
+        return console.error(err.toString());
+    });
+
+    connection.on("ReceiveDelete_PantherProfile", function (PantherProfileId) {
+        $('#PantherProfileTBodyId').find(`tr[id='${PantherProfileId}']`).remove();
+    });
+
+</script>

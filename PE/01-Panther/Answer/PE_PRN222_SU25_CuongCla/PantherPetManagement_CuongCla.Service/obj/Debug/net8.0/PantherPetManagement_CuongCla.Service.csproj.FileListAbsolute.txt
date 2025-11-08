@@ -1,0 +1,16 @@
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\bin\Debug\net8.0\PantherPetManagement_CuongCla.Service.deps.json
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\bin\Debug\net8.0\PantherPetManagement_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\bin\Debug\net8.0\PantherPetManagement_CuongCla.Service.pdb
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\bin\Debug\net8.0\PantherPetManagement_CuongCla.Repositories.dll
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\bin\Debug\net8.0\PantherPetManagement_CuongCla.Repositories.pdb
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.csproj.AssemblyReference.cache
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.AssemblyInfoInputs.cache
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.AssemblyInfo.cs
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.csproj.CoreCompileInputs.cache
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.sourcelink.json
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherP.4721930A.Up2Date
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\refint\PantherPetManagement_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\PantherPetManagement_CuongCla.Service.pdb
+D:\PRN222\Đề Thi PE\PE\01-Panther\Answer\PE_PRN222_SU25_CuongCla\PantherPetManagement_CuongCla.Service\obj\Debug\net8.0\ref\PantherPetManagement_CuongCla.Service.dll

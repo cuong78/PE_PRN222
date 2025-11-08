@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\hubs\\pantherhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\hubs\\pantherhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\pages\\pantherprofiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla\\pantherpetmanagement_cuongcla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18B1BC9C-948E-4C70-A53F-1C194353B2D3}|PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj|solutionrelative:pantherpetmanagement_cuongcla\\pantherpetmanagement_cuongcla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D8ABE7-88B7-4C56-BAD4-5F11876B0C99}|PantherPetManagement_CuongCla.Repositories\\PantherPetManagement_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla.repositories\\models\\pantheraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D8ABE7-88B7-4C56-BAD4-5F11876B0C99}|PantherPetManagement_CuongCla.Repositories\\PantherPetManagement_CuongCla.Repositories.csproj|solutionrelative:pantherpetmanagement_cuongcla.repositories\\models\\pantheraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891D229F-B96D-4ADF-A95E-255179DE1FA6}|PantherPetManagement_CuongCla.Service\\PantherPetManagement_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\01-panther\\answer\\pe_prn222_su25_cuongcla\\pantherpetmanagement_cuongcla.service\\ipantherprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891D229F-B96D-4ADF-A95E-255179DE1FA6}|PantherPetManagement_CuongCla.Service\\PantherPetManagement_CuongCla.Service.csproj|solutionrelative:pantherpetmanagement_cuongcla.service\\ipantherprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Edit.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Edit.cshtml",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Edit.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T10:47:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Details.cshtml",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Details.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Details.cshtml",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T10:47:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Index.cshtml",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T10:05:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Delete.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Delete.cshtml",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\Pages\\PantherProfiles\\Delete.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T10:00:59.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PantherPetManagement_CuongCla",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\PantherPetManagement_CuongCla.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T09:56:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Program.cs",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\Program.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Program.cs",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:51:56.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PantherHub.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Hubs\\PantherHub.cs",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla\\Hubs\\PantherHub.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla\\Hubs\\PantherHub.cs",
+              "RelativeToolTip": "PantherPetManagement_CuongCla\\Hubs\\PantherHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:54:14.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPantherProfileService.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla.Service\\IPantherProfileService.cs",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla.Service\\IPantherProfileService.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla.Service\\IPantherProfileService.cs",
+              "RelativeToolTip": "PantherPetManagement_CuongCla.Service\\IPantherProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:55:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PantherAccount.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla.Repositories\\Models\\PantherAccount.cs",
+              "RelativeDocumentMoniker": "PantherPetManagement_CuongCla.Repositories\\Models\\PantherAccount.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\01-Panther\\Answer\\PE_PRN222_SU25_CuongCla\\PantherPetManagement_CuongCla.Repositories\\Models\\PantherAccount.cs",
+              "RelativeToolTip": "PantherPetManagement_CuongCla.Repositories\\Models\\PantherAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:53:57.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 888,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

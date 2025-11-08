@@ -1,0 +1,81 @@
+﻿@page
+@model PantherPetManagement_CuongCla.Pages.PantherProfiles.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>PantherProfile</h4>
+<hr />
+<div class="row" id="pantherTypeId">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="PantherProfile.PantherProfileId" />
+            <div class="form-group">
+                <label asp-for="PantherProfile.PantherTypeId" class="control-label"></label>
+                <select asp-for="PantherProfile.PantherTypeId" class="form-control" asp-items="ViewBag.PantherTypeId"></select>
+                <span asp-validation-for="PantherProfile.PantherTypeId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PantherProfile.PantherName" class="control-label"></label>
+                <input asp-for="PantherProfile.PantherName" class="form-control" />
+                <span asp-validation-for="PantherProfile.PantherName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PantherProfile.Weight" class="control-label"></label>
+                <input asp-for="PantherProfile.Weight" class="form-control" />
+                <span asp-validation-for="PantherProfile.Weight" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PantherProfile.Characteristics" class="control-label"></label>
+                <input asp-for="PantherProfile.Characteristics" class="form-control" />
+                <span asp-validation-for="PantherProfile.Characteristics" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PantherProfile.Warning" class="control-label"></label>
+                <input asp-for="PantherProfile.Warning" class="form-control" />
+                <span asp-validation-for="PantherProfile.Warning" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PantherProfile.ModifiedDate" class="control-label"></label>
+                <input asp-for="PantherProfile.ModifiedDate" class="form-control" />
+                <span asp-validation-for="PantherProfile.ModifiedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script>
+    "use strict";
+
+    var connection = new signalR.HubConnectionBuilder().withUrl("/PantherHub").build();
+
+    connection.start().then(function () {
+        console.log("CuongCLA: Connected to the SignalR Hub");
+    }).catch(function (err) {
+        return console.error(err.toString());
+    });
+
+    //Delete
+    connection.on("ReceiveDelete_PantherProfile", function (PantherTypeId) {
+        document.getElementById("pantherTypeId").innerHTML = "<div class='alert alert-warning text-center' role='alert'><i class='fas fa-exclamation-triangle me-2'></i>This payment record (ID: " + PantherTypeId + ") has been deleted.</div>";
+    });
+
+
+</script>
