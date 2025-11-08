@@ -1,0 +1,16 @@
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\bin\Debug\net8.0\GroupTeam.Service.deps.json
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\bin\Debug\net8.0\GroupTeam.Service.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\bin\Debug\net8.0\GroupTeam.Service.pdb
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\bin\Debug\net8.0\GroupTeam.Repository.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\bin\Debug\net8.0\GroupTeam.Repository.pdb
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.csproj.AssemblyReference.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.AssemblyInfoInputs.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.AssemblyInfo.cs
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.csproj.CoreCompileInputs.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.sourcelink.json
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTea.44D192BC.Up2Date
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\refint\GroupTeam.Service.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\GroupTeam.Service.pdb
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Service\obj\Debug\net8.0\ref\GroupTeam.Service.dll

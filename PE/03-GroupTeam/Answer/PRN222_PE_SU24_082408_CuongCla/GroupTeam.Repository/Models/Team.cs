@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace GroupTeam.Repository.Models;
 
@@ -9,12 +10,21 @@ public partial class Team
 {
     public int Id { get; set; }
 
+    [Required(ErrorMessage = "Team Name is required")]
+    [StringLength(15, MinimumLength = 3, ErrorMessage = "Team Name must be between 3 and 15 characters")]
+    [RegularExpression(@"^[A-Z][a-zA-Z0-9]*$", ErrorMessage = "Team Name must start with a capital letter and contain only letters (a-z, A-Z) and digits (0-9)")]
+    [Display(Name = "Team Name")]
     public string TeamName { get; set; }
 
+    [Required(ErrorMessage = "Point is required")]
+    [Range(0, int.MaxValue, ErrorMessage = "Point must be a positive number")]
     public int Point { get; set; }
 
+    [Required(ErrorMessage = "Group is required")]
+    [Display(Name = "Group")]
     public int? GroupId { get; set; }
 
+    // Position is automatically calculated based on Point, no user input required
     public int Position { get; set; }
 
     public virtual GroupTeam Group { get; set; }

@@ -1,7 +1,25 @@
+using GroupTeam.Service;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddScoped <ITeamService, TeamService>();
+builder.Services.AddScoped<GroupTeamService>();
+builder.Services.AddScoped<AccountService>();
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        
+
+        options.AccessDeniedPath = "/Account/Forbidden";
+        options.ExpireTimeSpan = TimeSpan.FromMinutes(15);
+    });
+
+
+
 
 var app = builder.Build();
 
@@ -20,6 +38,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapRazorPages();
+app.MapRazorPages().RequireAuthorization();
 
 app.Run();

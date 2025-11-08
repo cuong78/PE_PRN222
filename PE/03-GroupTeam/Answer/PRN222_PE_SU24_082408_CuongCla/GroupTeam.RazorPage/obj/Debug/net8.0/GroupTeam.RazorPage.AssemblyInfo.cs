@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupTeam.RazorPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65f1e4e16a6b0cb1b520403790386d38f7b6dbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af770b48896f84788926aafe2410e2a21cd02b35")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupTeam.RazorPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupTeam.RazorPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

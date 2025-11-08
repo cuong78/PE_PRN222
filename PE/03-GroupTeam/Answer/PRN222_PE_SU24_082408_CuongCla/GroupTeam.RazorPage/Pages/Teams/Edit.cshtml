@@ -1,0 +1,56 @@
+﻿@page
+@model GroupTeam.RazorPage.Pages.Teams.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Team</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Team.Id" />
+            <div class="form-group">
+                <label asp-for="Team.TeamName" class="control-label"></label>
+                <input asp-for="Team.TeamName" class="form-control" />
+                <span asp-validation-for="Team.TeamName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Current Point</label>
+                <input type="text" class="form-control" value="@Model.CurrentPoint" readonly disabled />
+                <small class="form-text text-muted">This is the current point total</small>
+            </div>
+            <div class="form-group">
+                <label asp-for="Team.Point" class="control-label">Add Point</label>
+                <select asp-for="Team.Point" class="form-control">
+                    <option value="">-- Select Point Value to Add --</option>
+                    <option value="0">0 (Loss)</option>
+                    <option value="1">1 (Draw)</option>
+                    <option value="3">3 (Win)</option>
+                </select>
+                <span asp-validation-for="Team.Point" class="text-danger"></span>
+                <small class="form-text text-muted">Select points to add to current total</small>
+            </div>
+            <div class="form-group">
+                <label asp-for="Team.GroupId" class="control-label"></label>
+                <select asp-for="Team.GroupId" class="form-control" asp-items="ViewBag.GroupId"></select>
+                <span asp-validation-for="Team.GroupId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

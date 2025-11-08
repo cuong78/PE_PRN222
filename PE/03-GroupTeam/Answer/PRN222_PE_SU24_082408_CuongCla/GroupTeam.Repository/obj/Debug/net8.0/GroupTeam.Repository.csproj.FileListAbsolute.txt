@@ -1,0 +1,15 @@
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\bin\Debug\net8.0\GroupTeam.Repository.deps.json
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\bin\Debug\net8.0\GroupTeam.Repository.runtimeconfig.json
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\bin\Debug\net8.0\GroupTeam.Repository.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\bin\Debug\net8.0\GroupTeam.Repository.pdb
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.csproj.AssemblyReference.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.AssemblyInfoInputs.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.AssemblyInfo.cs
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.csproj.CoreCompileInputs.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.sourcelink.json
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\refint\GroupTeam.Repository.dll
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.pdb
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\GroupTeam.Repository.genruntimeconfig.cache
+D:\PRN222\Đề Thi PE\PE\03-GroupTeam\Answer\PRN222_PE_SU24_082408_CuongCla\GroupTeam.Repository\obj\Debug\net8.0\ref\GroupTeam.Repository.dll
