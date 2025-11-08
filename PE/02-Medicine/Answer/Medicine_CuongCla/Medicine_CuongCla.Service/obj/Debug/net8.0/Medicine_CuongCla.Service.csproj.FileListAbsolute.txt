@@ -1,0 +1,16 @@
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\bin\Debug\net8.0\Medicine_CuongCla.Service.deps.json
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\bin\Debug\net8.0\Medicine_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\bin\Debug\net8.0\Medicine_CuongCla.Service.pdb
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\bin\Debug\net8.0\Medicine_CuongCla.Repositories.dll
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\bin\Debug\net8.0\Medicine_CuongCla.Repositories.pdb
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.csproj.AssemblyReference.cache
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.AssemblyInfoInputs.cache
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.AssemblyInfo.cs
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.csproj.CoreCompileInputs.cache
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.sourcelink.json
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine.851B60C7.Up2Date
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\refint\Medicine_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\Medicine_CuongCla.Service.pdb
+D:\PRN222\Đề Thi PE\PE\02-Medicine\Answer\Medicine_CuongCla\Medicine_CuongCla.Service\obj\Debug\net8.0\ref\Medicine_CuongCla.Service.dll

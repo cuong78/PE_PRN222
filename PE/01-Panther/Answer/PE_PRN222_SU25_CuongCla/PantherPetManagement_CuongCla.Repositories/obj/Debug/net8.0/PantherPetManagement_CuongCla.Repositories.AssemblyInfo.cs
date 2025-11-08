@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PantherPetManagement_CuongCla.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1181e86bb6448b04f9b1a86c01a29c9d63b81610")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65f1e4e16a6b0cb1b520403790386d38f7b6dbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PantherPetManagement_CuongCla.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PantherPetManagement_CuongCla.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

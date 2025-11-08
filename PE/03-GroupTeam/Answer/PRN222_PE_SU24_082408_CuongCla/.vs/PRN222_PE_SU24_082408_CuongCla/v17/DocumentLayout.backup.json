@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\models\\groupteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\models\\groupteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\dbcontext\\euro2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\dbcontext\\euro2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\groupteam.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\groupteam.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E73F2F-7A28-42B8-8B85-296A109F838A}|GroupTeam.Repository\\GroupTeam.Repository.csproj|solutionrelative:groupteam.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE3460-7697-45EB-97E4-0C4C6186D1D0}|GroupTeam.Service\\GroupTeam.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\03-groupteam\\answer\\prn222_pe_su24_082408_cuongcla\\groupteam.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE3460-7697-45EB-97E4-0C4C6186D1D0}|GroupTeam.Service\\GroupTeam.Service.csproj|solutionrelative:groupteam.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\TeamRepository.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\TeamRepository.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\TeamRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:17:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\GenericRepository.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:17:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\Models\\Team.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Models\\Team.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\Models\\Account.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Models\\Account.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:38.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupTeam.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Models\\GroupTeam.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\Models\\GroupTeam.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Models\\GroupTeam.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\Models\\GroupTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:35.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupTeam.Repository",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\GroupTeam.Repository.csproj",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\GroupTeam.Repository.csproj",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\GroupTeam.Repository.csproj",
+              "RelativeToolTip": "GroupTeam.Repository\\GroupTeam.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T15:14:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Euro2024DBContext.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\DBContext\\Euro2024DBContext.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\DBContext\\Euro2024DBContext.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\DBContext\\Euro2024DBContext.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\DBContext\\Euro2024DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:14:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Repository\\Class1.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Repository\\Class1.cs",
+              "RelativeToolTip": "GroupTeam.Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:12:02.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "GroupTeam.Service\\Class1.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\03-GroupTeam\\Answer\\PRN222_PE_SU24_082408_CuongCla\\GroupTeam.Service\\Class1.cs",
+              "RelativeToolTip": "GroupTeam.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:11:36.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 888,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

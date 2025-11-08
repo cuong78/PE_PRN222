@@ -1,0 +1,108 @@
+﻿@page
+@model Medicine_CuongCla.RazorPage.Pages.MedicineInformations.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <h5 class="card-title text-primary mb-3"><i class="bi bi-search me-2"></i> Search Records</h5>
+        <form asp-page="./Index" method="get">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="warningsAndPrecautions" class="form-label">warningsAndPrecautions</label>
+                    <input type="text" class="form-control" id="warningsAndPrecautions" name="WarningsAndPrecautions" value="@Model.WarningsAndPrecautions" />
+                </div>
+                <div class="col-md-4">
+                    <label for="activeIngredients" class="form-label">activeIngredients</label>
+                    <input type="text" class="form-control" id="activeIngredients" name="ActiveIngredients" value="@Model.ActiveIngredients" />
+                </div>
+
+                <div class="col-md-4">
+                    <label for="expirationDate" class="form-label">expirationDate</label>
+                    <input type="text" class="form-control" id="expirationDate" name="ExpirationDate" value="@Model.ExpirationDate" />
+                </div>
+            </div>
+            <div class="d-flex justify-content-end mt-3">
+                <button class="btn btn-primary me-2" type="submit">
+                    <i class="bi bi-search me-1"></i> Search
+                </button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">
+                    Clear
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].MedicineName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].ActiveIngredients)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].ExpirationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].DosageForm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].WarningsAndPrecautions)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].Manufacturer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.MedicineInformation) {
+        <tr class="js-pagination-item">
+            <td>
+                @Html.DisplayFor(modelItem => item.MedicineName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActiveIngredients)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DosageForm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WarningsAndPrecautions)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer.ManufacturerId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.MedicineId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.MedicineId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.MedicineId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="js-pagination" style="display: none; margin-top: 20px;"></div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/pagination.js"></script>
+
+<script>
+    generatePagination('.js-pagination', '.js-pagination-item', 3, 'Prev', 'Next');
+</script>

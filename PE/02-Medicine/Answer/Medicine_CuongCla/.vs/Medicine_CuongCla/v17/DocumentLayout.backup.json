@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\medicineinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\medicineinformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\models\\medicineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\models\\medicineinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.service\\imedicineinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|solutionrelative:medicine_cuongcla.service\\imedicineinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\medicineinformations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\medicineinformations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.service\\storeaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|solutionrelative:medicine_cuongcla.service\\storeaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\models\\storeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\models\\storeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\account\\forbidden.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\account\\forbidden.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\pages\\account\\forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\pages\\account\\forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\medicine_cuongcla.razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\medicine_cuongcla.razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.service\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|solutionrelative:medicine_cuongcla.service\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{303020AD-EAA4-4038-85B6-DC1A1231A1BC}|Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj|solutionrelative:medicine_cuongcla.razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\dbcontext\\fall24pharmaceuticaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\dbcontext\\fall24pharmaceuticaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.service\\medicine_cuongcla.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|solutionrelative:medicine_cuongcla.service\\medicine_cuongcla.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\storeaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\storeaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.service\\medicineinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|solutionrelative:medicine_cuongcla.service\\medicineinformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\medicine_cuongcla.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\medicine_cuongcla.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\basic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\basic\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A2D5E4-36E3-4762-9E52-ADEF43FA1C89}|Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj|solutionrelative:medicine_cuongcla.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|d:\\prn222\\\u0111\u1EC1 thi pe\\pe\\02-medicine\\answer\\medicine_cuongcla\\medicine_cuongcla.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60B639-ED07-4FDF-AC20-FE590281FA6F}|Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj|solutionrelative:medicine_cuongcla.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:48:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:48:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicineInformation.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Models\\MedicineInformation.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\Models\\MedicineInformation.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Models\\MedicineInformation.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\Models\\MedicineInformation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:19:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineInformationRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\MedicineInformationRepository.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\MedicineInformationRepository.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\MedicineInformationRepository.cs*",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\MedicineInformationRepository.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:20:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:47:59.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:48:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\Models\\Manufacturer.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:21:14.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMedicineInformationService.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\IMedicineInformationService.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Service\\IMedicineInformationService.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\IMedicineInformationService.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Service\\IMedicineInformationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:32:24.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-08T11:51:07.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:42:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:48:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:48:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:48:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:42:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:48:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:48:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\MedicineInformations\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:48:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:42:41.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreAccountService.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\StoreAccountService.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Service\\StoreAccountService.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\StoreAccountService.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Service\\StoreAccountService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:36:34.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoreAccount.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Models\\StoreAccount.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\Models\\StoreAccount.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Models\\StoreAccount.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\Models\\StoreAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:47.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Medicine_CuongCla.RazorPage",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Medicine_CuongCla.RazorPage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T11:42:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Forbidden.cshtml.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:42:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:42:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Forbidden.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Pages\\Account\\Forbidden.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-08T11:42:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Program.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\Program.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\Program.cs",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:39:58.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManufacturerService.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\ManufacturerService.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Service\\ManufacturerService.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\ManufacturerService.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Service\\ManufacturerService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:38:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\appsettings.json",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.RazorPage\\appsettings.json",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.RazorPage\\appsettings.json",
+              "RelativeToolTip": "Medicine_CuongCla.RazorPage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T11:39:02.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManufacturerRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\ManufacturerRepository.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\ManufacturerRepository.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\ManufacturerRepository.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\ManufacturerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Fall24PharmaceuticalDBContext.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\DBContext\\Fall24PharmaceuticalDBContext.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\DBContext\\Fall24PharmaceuticalDBContext.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\DBContext\\Fall24PharmaceuticalDBContext.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\DBContext\\Fall24PharmaceuticalDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB0AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:16:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StoreAccountRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\StoreAccountRepository.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\StoreAccountRepository.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\StoreAccountRepository.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\StoreAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:30:59.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Medicine_CuongCla.Service",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj",
+              "RelativeToolTip": "Medicine_CuongCla.Service\\Medicine_CuongCla.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T11:32:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MedicineInformationService.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\MedicineInformationService.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Service\\MedicineInformationService.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\MedicineInformationService.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Service\\MedicineInformationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:34:00.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Medicine_CuongCla.Repositories",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\Medicine_CuongCla.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T11:18:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Basic\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\Basic\\GenericRepository.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Basic\\GenericRepository.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\Basic\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:19:18.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Repositories\\Class1.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Repositories\\Class1.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:13:36.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Medicine_CuongCla.Service\\Class1.cs",
+              "ToolTip": "D:\\PRN222\\\u0110\u1EC1 Thi PE\\PE\\02-Medicine\\Answer\\Medicine_CuongCla\\Medicine_CuongCla.Service\\Class1.cs",
+              "RelativeToolTip": "Medicine_CuongCla.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:12:04.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 888,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
