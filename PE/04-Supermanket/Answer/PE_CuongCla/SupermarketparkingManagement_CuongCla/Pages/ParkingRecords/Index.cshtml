@@ -10,6 +10,33 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <h5 class="card-title text-primary mb-3"><i class="bi bi-search me-2"></i> Search Records</h5>
+        <form asp-page="./Index" method="get">
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <label for="vehiclePlate" class="form-label">Vehicle Plate</label>
+                    <input type="text" class="form-control" id="vehiclePlate" name="VehiclePlate" value="@Model.VehiclePlate" placeholder="e.g., 29A-12345" />
+                </div>
+                <div class="col-md-4">
+                    <label for="checkInTime" class="form-label">Check-In Time</label>
+                    <input type="date" class="form-control" id="checkInTime" name="CheckInTime" value="@(Model.CheckInTime?.ToString("yyyy-MM-dd"))" />
+                </div>
+            </div>
+            <div class="d-flex justify-content-end mt-3">
+                <button class="btn btn-primary me-2" type="submit">
+                    <i class="bi bi-search me-1"></i> Search
+                </button>
+                <a class="btn btn-outline-secondary" asp-page="./Index">
+                    Clear
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
 <table class="table">
     <thead>
         <tr>

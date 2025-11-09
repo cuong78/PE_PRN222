@@ -2,6 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace SupermarketparkingManagement_CuongCla.Repositories.Models;
 
@@ -9,17 +10,66 @@ public partial class ParkingRecord
 {
     public int RecordId { get; set; }
 
+    [Required(ErrorMessage = "Vehicle Plate is required")]
+    [RegularExpression(@"^\d{2}[A-Z]-\d{5,6}$", ErrorMessage = "Vehicle Plate must be in format ##X-YYYYY or ##X-YYYYYY (e.g., 29A-12345 or 51B-123456)")]
+    [Display(Name = "Vehicle Plate")]
     public string VehiclePlate { get; set; }
 
+    [Required(ErrorMessage = "Vehicle Type is required")]
+    [Display(Name = "Vehicle Type")]
     public int? VehicleTypeId { get; set; }
 
+    [Required(ErrorMessage = "Check-In Time is required")]
+    [Display(Name = "Check-In Time")]
     public DateTime CheckInTime { get; set; }
 
+    [Display(Name = "Check-Out Time")]
+    [DateGreaterThanOrEqual("CheckInTime", ErrorMessage = "Check-Out Time must be greater than or equal to Check-In Time")]
     public DateTime? CheckOutTime { get; set; }
 
+    [Required(ErrorMessage = "Parking Slot is required")]
+    [Display(Name = "Parking Slot")]
     public string ParkingSlot { get; set; }
 
+    [Display(Name = "Fee Paid")]
     public decimal? FeePaid { get; set; }
 
     public virtual VehicleType VehicleType { get; set; }
+}
+
+// Custom validation attribute for date comparison
+public class DateGreaterThanOrEqualAttribute : ValidationAttribute
+{
+    private readonly string _comparisonProperty;
+
+    public DateGreaterThanOrEqualAttribute(string comparisonProperty)
+    {
+        _comparisonProperty = comparisonProperty;
+    }
+
+    protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+    {
+        // If CheckOutTime is null, it's valid (vehicle still parked)
+        if (value == null)
+        {
+            return ValidationResult.Success;
+        }
+
+        var currentValue = (DateTime)value;
+
+        var property = validationContext.ObjectType.GetProperty(_comparisonProperty);
+        if (property == null)
+        {
+            return new ValidationResult($"Unknown property: {_comparisonProperty}");
+        }
+
+        var comparisonValue = (DateTime)property.GetValue(validationContext.ObjectInstance);
+
+        if (currentValue < comparisonValue)
+        {
+            return new ValidationResult(ErrorMessage ?? $"{validationContext.DisplayName} must be greater than or equal to {_comparisonProperty}");
+        }
+
+        return ValidationResult.Success;
+    }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SupermarketparkingManagement_CuongCla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f5c13961db16000d57e2eb84b2785fb328c2f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("SupermarketparkingManagement_CuongCla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SupermarketparkingManagement_CuongCla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

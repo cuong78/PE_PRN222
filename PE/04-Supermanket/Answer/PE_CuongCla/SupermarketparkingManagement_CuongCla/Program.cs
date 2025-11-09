@@ -13,8 +13,7 @@ builder.Services.AddScoped<SystemAccountService>();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        //n?u ?? bài yêu c?u thay ??i các path m?c ??nh
-        options.LoginPath = "/Login";
+        options.LoginPath = "/Account/Login";
 
         options.AccessDeniedPath = "/Account/Forbidden";
         options.ExpireTimeSpan = TimeSpan.FromMinutes(15);

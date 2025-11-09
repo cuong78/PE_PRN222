@@ -1,12 +1,13 @@
-using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using SupermarketparkingManagement_CuongCla.Service;
 using System.ComponentModel.DataAnnotations;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using Microsoft.AspNetCore.Authorization;
 
 
 namespace SupermarketparkingManagement_CuongCla.Pages.Account
@@ -14,9 +15,9 @@ namespace SupermarketparkingManagement_CuongCla.Pages.Account
     [AllowAnonymous]
     public class LoginModel : PageModel
     {
-        private readonly SystemUserAccountService _userAccountService;
+        private readonly SystemAccountService _userAccountService;
 
-        public LoginModel() => _userAccountService ??= new SystemUserAccountService();
+        public LoginModel() => _userAccountService ??= new SystemAccountService();
 
         [BindProperty]
         public string UserName { get; set; } = string.Empty;
@@ -31,23 +32,23 @@ namespace SupermarketparkingManagement_CuongCla.Pages.Account
 
         public async Task<IActionResult> OnPost()
         {                        
-            var userAccount = await _userAccountService.GetUserAccount(UserName, Password);
+            var userAccount = await _userAccountService.GetAccount(UserName, Password);
 
             if (userAccount != null)
             {
                 var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, UserName),
-                    new Claim(ClaimTypes.Role, userAccount.RoleId.ToString()),
+                    new Claim(ClaimTypes.Role, userAccount.Role.ToString()),
                 };
 
                 var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(identity));
 
-                Response.Cookies.Append("UserName", userAccount.UserName);
+                Response.Cookies.Append("UserName", userAccount.Username);
 
                 //// After signing then redirect to default page
-                return RedirectToPage("/TransactionCashDepositSlips/Index");
+                return RedirectToPage("/ParkingRecords/Index");
                 //return RedirectToPage("/Index");
             }
             else

@@ -1,26 +1,31 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using SupermarketparkingManagement_CuongCla.Repositories.Models;
+using SupermarketparkingManagement_CuongCla.Service;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace SupermarketparkingManagement_CuongCla.Pages.ParkingRecords
 {
     public class CreateModel : PageModel
     {
-        private readonly SupermarketparkingManagement_CuongCla.Repositories.Models.supermarketparkingdbContext _context;
+        private readonly IParkingRecordService _parkingRecordService;
+        private readonly VehicleTypeService _vehicleTypeService;
 
-        public CreateModel(SupermarketparkingManagement_CuongCla.Repositories.Models.supermarketparkingdbContext context)
+        public CreateModel(IParkingRecordService context)
         {
-            _context = context;
+            _parkingRecordService = context;
+            _vehicleTypeService = new VehicleTypeService();
         }
 
-        public IActionResult OnGet()
+        public async Task<IActionResult> OnGet()
         {
-        ViewData["VehicleTypeId"] = new SelectList(_context.VehicleTypes, "VehicleTypeId", "TypeName");
+            var vehicleTypes = await _vehicleTypeService.GetAllAsync();
+
+            ViewData["VehicleTypeId"] = new SelectList(vehicleTypes, "VehicleTypeId", "TypeName");
             return Page();
         }
 
@@ -32,12 +37,13 @@ namespace SupermarketparkingManagement_CuongCla.Pages.ParkingRecords
         {
             if (!ModelState.IsValid)
             {
+                // Reload dropdown data when validation fails
+                var vehicleTypes = await _vehicleTypeService.GetAllAsync();
+                ViewData["VehicleTypeId"] = new SelectList(vehicleTypes, "VehicleTypeId", "TypeName");
                 return Page();
             }
 
-            _context.ParkingRecords.Add(ParkingRecord);
-            await _context.SaveChangesAsync();
-
+            await _parkingRecordService.CreateAsync(ParkingRecord);
             return RedirectToPage("./Index");
         }
     }

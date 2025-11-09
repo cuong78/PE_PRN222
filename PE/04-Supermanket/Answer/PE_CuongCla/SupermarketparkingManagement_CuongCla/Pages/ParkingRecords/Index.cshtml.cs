@@ -20,13 +20,37 @@ namespace SupermarketparkingManagement_CuongCla.Pages.ParkingRecords
             _context = context;
         }
 
+        [BindProperty(SupportsGet = true)]
+        public string VehiclePlate { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public DateTime? CheckInTime { get; set; }
+
+
+
         public IList<ParkingRecord> ParkingRecord { get; set; } = default!;
 
         public async Task OnGetAsync(int? pageIndex)
         {
+
+            // Lấy tất cả dữ liệu từ backend
             var allProfiles = await _context.GetAllAsync();
-            allProfiles = allProfiles.OrderByDescending(p => p.CheckInTime).ToList();
+
+         
+
+
+            if (!string.IsNullOrEmpty(VehiclePlate) || CheckInTime != null)
+            {
+                allProfiles = await _context.SearchAsync(VehiclePlate, CheckInTime);
+                // Sắp xếp lại sau khi search
+
+            }
+
+
+
             ParkingRecord = allProfiles;
+
+
         }
 
     }

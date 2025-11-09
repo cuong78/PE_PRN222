@@ -30,12 +30,10 @@ namespace SupermarketparkingManagement_CuongCla.Repositories
         {
             var items = await _context.ParkingRecords
                 .Include(p => p.VehicleType)
-
-                //     trường hợp đề cho phân cấp 2  
-                //    .ThenInclude(b => b.BPC2)
-                // trường hợp đề cho hai phân cấp 1 
-                //.Include(p => p.BPC1)
                 .ToListAsync();
+            
+            // Đảo ngược danh sách để record mới nhất (ID lớn) lên đầu
+            items.Reverse();
 
             return items ?? new List<ParkingRecord>();
         }
@@ -54,24 +52,29 @@ namespace SupermarketparkingManagement_CuongCla.Repositories
             return items ?? new ParkingRecord();
         }
 
-
-     
-
         public async Task<List<ParkingRecord>> SearchAsync(string vehiclePlate, DateTime? checkInTime) 
         {
-            var listItem = await _context.ParkingRecords
-                .Include(b => b.VehicleType)
-                
-                .Where(c =>
-                (c.CheckInTime == checkInTime || checkInTime == null)
+            var query = _context.ParkingRecords
+                 .Include(b => b.VehicleType)
+                 .AsQueryable();
 
-                
-                && (c.VehiclePlate.Contains(vehiclePlate) || string.IsNullOrEmpty(vehiclePlate))         
+            // Apply vehicle plate filter if provided
+            if (!string.IsNullOrEmpty(vehiclePlate))
+            {
+                query = query.Where(c => c.VehiclePlate.Contains(vehiclePlate));
+            }
 
-                )                
-                .OrderByDescending(c => c.CheckOutTime).ToListAsync();
+            // Apply check-in time filter if provided
+            if (checkInTime.HasValue)
+            {
+                var searchDate = checkInTime.Value.Date;
+                query = query.Where(c => c.CheckInTime.Date == searchDate);
+            }
+
+            var listItem = await query.ToListAsync();
 
             return listItem ?? new List<ParkingRecord>();
+
         }
 
 

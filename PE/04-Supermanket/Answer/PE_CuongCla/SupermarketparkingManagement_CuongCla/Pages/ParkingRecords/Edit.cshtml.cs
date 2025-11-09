@@ -45,6 +45,8 @@ namespace SupermarketparkingManagement_CuongCla.Pages.ParkingRecords
         {
             if (!ModelState.IsValid)
             {
+                // Reload dropdown data when validation fails
+                ViewData["VehicleTypeId"] = new SelectList(_context.VehicleTypes, "VehicleTypeId", "TypeName");
                 return Page();
             }
 

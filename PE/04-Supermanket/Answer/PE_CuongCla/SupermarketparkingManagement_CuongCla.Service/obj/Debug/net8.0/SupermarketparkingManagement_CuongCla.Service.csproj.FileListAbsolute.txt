@@ -13,3 +13,4 @@ D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingMa
 D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Service\obj\Debug\net8.0\refint\SupermarketparkingManagement_CuongCla.Service.dll
 D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Service\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Service.pdb
 D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Service\obj\Debug\net8.0\ref\SupermarketparkingManagement_CuongCla.Service.dll
+D:\PRN222\Đề Thi PE\PE\04-Supermanket\Answer\PE_CuongCla\SupermarketparkingManagement_CuongCla.Service\obj\Debug\net8.0\SupermarketparkingManagement_CuongCla.Service.sourcelink.json
